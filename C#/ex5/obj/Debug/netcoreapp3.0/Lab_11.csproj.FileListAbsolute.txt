@@ -1,0 +1,33 @@
+/Users/anastasia/Projects/Lab_11/Lab_11/bin/Debug/netcoreapp3.0/Lab_11
+/Users/anastasia/Projects/Lab_11/Lab_11/bin/Debug/netcoreapp3.0/Lab_11.deps.json
+/Users/anastasia/Projects/Lab_11/Lab_11/bin/Debug/netcoreapp3.0/Lab_11.runtimeconfig.json
+/Users/anastasia/Projects/Lab_11/Lab_11/bin/Debug/netcoreapp3.0/Lab_11.runtimeconfig.dev.json
+/Users/anastasia/Projects/Lab_11/Lab_11/bin/Debug/netcoreapp3.0/Lab_11.dll
+/Users/anastasia/Projects/Lab_11/Lab_11/bin/Debug/netcoreapp3.0/Lab_11.pdb
+/Users/anastasia/Projects/Lab_11/Lab_11/obj/Debug/netcoreapp3.0/Lab_11.csprojAssemblyReference.cache
+/Users/anastasia/Projects/Lab_11/Lab_11/obj/Debug/netcoreapp3.0/Lab_11.AssemblyInfoInputs.cache
+/Users/anastasia/Projects/Lab_11/Lab_11/obj/Debug/netcoreapp3.0/Lab_11.AssemblyInfo.cs
+/Users/anastasia/Projects/Lab_11/Lab_11/obj/Debug/netcoreapp3.0/Lab_11.dll
+/Users/anastasia/Projects/Lab_11/Lab_11/obj/Debug/netcoreapp3.0/Lab_11.pdb
+/Users/radhold/Desktop/Lab_11/bin/Debug/netcoreapp3.0/Lab_11
+/Users/radhold/Desktop/Lab_11/bin/Debug/netcoreapp3.0/Lab_11.deps.json
+/Users/radhold/Desktop/Lab_11/bin/Debug/netcoreapp3.0/Lab_11.runtimeconfig.json
+/Users/radhold/Desktop/Lab_11/bin/Debug/netcoreapp3.0/Lab_11.runtimeconfig.dev.json
+/Users/radhold/Desktop/Lab_11/bin/Debug/netcoreapp3.0/Lab_11.dll
+/Users/radhold/Desktop/Lab_11/bin/Debug/netcoreapp3.0/Lab_11.pdb
+/Users/radhold/Desktop/Lab_11/obj/Debug/netcoreapp3.0/Lab_11.csprojAssemblyReference.cache
+/Users/radhold/Desktop/Lab_11/obj/Debug/netcoreapp3.0/Lab_11.AssemblyInfoInputs.cache
+/Users/radhold/Desktop/Lab_11/obj/Debug/netcoreapp3.0/Lab_11.AssemblyInfo.cs
+/Users/radhold/Desktop/Lab_11/obj/Debug/netcoreapp3.0/Lab_11.dll
+/Users/radhold/Desktop/Lab_11/obj/Debug/netcoreapp3.0/Lab_11.pdb
+/Users/evgenii/Downloads/C-1-master/лаба 11/bin/Debug/netcoreapp3.0/Lab_11
+/Users/evgenii/Downloads/C-1-master/лаба 11/bin/Debug/netcoreapp3.0/Lab_11.deps.json
+/Users/evgenii/Downloads/C-1-master/лаба 11/bin/Debug/netcoreapp3.0/Lab_11.runtimeconfig.json
+/Users/evgenii/Downloads/C-1-master/лаба 11/bin/Debug/netcoreapp3.0/Lab_11.runtimeconfig.dev.json
+/Users/evgenii/Downloads/C-1-master/лаба 11/bin/Debug/netcoreapp3.0/Lab_11.dll
+/Users/evgenii/Downloads/C-1-master/лаба 11/bin/Debug/netcoreapp3.0/Lab_11.pdb
+/Users/evgenii/Downloads/C-1-master/лаба 11/obj/Debug/netcoreapp3.0/Lab_11.csprojAssemblyReference.cache
+/Users/evgenii/Downloads/C-1-master/лаба 11/obj/Debug/netcoreapp3.0/Lab_11.AssemblyInfoInputs.cache
+/Users/evgenii/Downloads/C-1-master/лаба 11/obj/Debug/netcoreapp3.0/Lab_11.AssemblyInfo.cs
+/Users/evgenii/Downloads/C-1-master/лаба 11/obj/Debug/netcoreapp3.0/Lab_11.dll
+/Users/evgenii/Downloads/C-1-master/лаба 11/obj/Debug/netcoreapp3.0/Lab_11.pdb

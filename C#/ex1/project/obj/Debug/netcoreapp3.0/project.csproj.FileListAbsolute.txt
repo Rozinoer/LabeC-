@@ -1,0 +1,11 @@
+/Users/anastasia/Projects/solution/project/obj/Debug/netcoreapp3.0/project.csprojAssemblyReference.cache
+/Users/anastasia/Projects/solution/project/obj/Debug/netcoreapp3.0/project.AssemblyInfoInputs.cache
+/Users/anastasia/Projects/solution/project/obj/Debug/netcoreapp3.0/project.AssemblyInfo.cs
+/Users/anastasia/Projects/solution/project/bin/Debug/netcoreapp3.0/project
+/Users/anastasia/Projects/solution/project/bin/Debug/netcoreapp3.0/project.deps.json
+/Users/anastasia/Projects/solution/project/bin/Debug/netcoreapp3.0/project.runtimeconfig.json
+/Users/anastasia/Projects/solution/project/bin/Debug/netcoreapp3.0/project.runtimeconfig.dev.json
+/Users/anastasia/Projects/solution/project/bin/Debug/netcoreapp3.0/project.dll
+/Users/anastasia/Projects/solution/project/bin/Debug/netcoreapp3.0/project.pdb
+/Users/anastasia/Projects/solution/project/obj/Debug/netcoreapp3.0/project.dll
+/Users/anastasia/Projects/solution/project/obj/Debug/netcoreapp3.0/project.pdb

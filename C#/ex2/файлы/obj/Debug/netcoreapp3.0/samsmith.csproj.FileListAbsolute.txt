@@ -1,0 +1,33 @@
+/Users/anastasia/Projects/samsmith/samsmith/bin/Debug/netcoreapp3.0/samsmith
+/Users/anastasia/Projects/samsmith/samsmith/bin/Debug/netcoreapp3.0/samsmith.deps.json
+/Users/anastasia/Projects/samsmith/samsmith/bin/Debug/netcoreapp3.0/samsmith.runtimeconfig.json
+/Users/anastasia/Projects/samsmith/samsmith/bin/Debug/netcoreapp3.0/samsmith.runtimeconfig.dev.json
+/Users/anastasia/Projects/samsmith/samsmith/bin/Debug/netcoreapp3.0/samsmith.dll
+/Users/anastasia/Projects/samsmith/samsmith/bin/Debug/netcoreapp3.0/samsmith.pdb
+/Users/anastasia/Projects/samsmith/samsmith/obj/Debug/netcoreapp3.0/samsmith.csprojAssemblyReference.cache
+/Users/anastasia/Projects/samsmith/samsmith/obj/Debug/netcoreapp3.0/samsmith.AssemblyInfoInputs.cache
+/Users/anastasia/Projects/samsmith/samsmith/obj/Debug/netcoreapp3.0/samsmith.AssemblyInfo.cs
+/Users/anastasia/Projects/samsmith/samsmith/obj/Debug/netcoreapp3.0/samsmith.dll
+/Users/anastasia/Projects/samsmith/samsmith/obj/Debug/netcoreapp3.0/samsmith.pdb
+/Users/radhold/Desktop/lab 8/файлы/bin/Debug/netcoreapp3.0/samsmith
+/Users/radhold/Desktop/lab 8/файлы/bin/Debug/netcoreapp3.0/samsmith.deps.json
+/Users/radhold/Desktop/lab 8/файлы/bin/Debug/netcoreapp3.0/samsmith.runtimeconfig.json
+/Users/radhold/Desktop/lab 8/файлы/bin/Debug/netcoreapp3.0/samsmith.runtimeconfig.dev.json
+/Users/radhold/Desktop/lab 8/файлы/bin/Debug/netcoreapp3.0/samsmith.dll
+/Users/radhold/Desktop/lab 8/файлы/bin/Debug/netcoreapp3.0/samsmith.pdb
+/Users/radhold/Desktop/lab 8/файлы/obj/Debug/netcoreapp3.0/samsmith.csprojAssemblyReference.cache
+/Users/radhold/Desktop/lab 8/файлы/obj/Debug/netcoreapp3.0/samsmith.AssemblyInfoInputs.cache
+/Users/radhold/Desktop/lab 8/файлы/obj/Debug/netcoreapp3.0/samsmith.AssemblyInfo.cs
+/Users/radhold/Desktop/lab 8/файлы/obj/Debug/netcoreapp3.0/samsmith.dll
+/Users/radhold/Desktop/lab 8/файлы/obj/Debug/netcoreapp3.0/samsmith.pdb
+/Users/radhold/Desktop/С#/лаба 8/файлы/bin/Debug/netcoreapp3.0/samsmith
+/Users/radhold/Desktop/С#/лаба 8/файлы/bin/Debug/netcoreapp3.0/samsmith.deps.json
+/Users/radhold/Desktop/С#/лаба 8/файлы/bin/Debug/netcoreapp3.0/samsmith.runtimeconfig.json
+/Users/radhold/Desktop/С#/лаба 8/файлы/bin/Debug/netcoreapp3.0/samsmith.runtimeconfig.dev.json
+/Users/radhold/Desktop/С#/лаба 8/файлы/bin/Debug/netcoreapp3.0/samsmith.dll
+/Users/radhold/Desktop/С#/лаба 8/файлы/bin/Debug/netcoreapp3.0/samsmith.pdb
+/Users/radhold/Desktop/С#/лаба 8/файлы/obj/Debug/netcoreapp3.0/samsmith.csprojAssemblyReference.cache
+/Users/radhold/Desktop/С#/лаба 8/файлы/obj/Debug/netcoreapp3.0/samsmith.AssemblyInfoInputs.cache
+/Users/radhold/Desktop/С#/лаба 8/файлы/obj/Debug/netcoreapp3.0/samsmith.AssemblyInfo.cs
+/Users/radhold/Desktop/С#/лаба 8/файлы/obj/Debug/netcoreapp3.0/samsmith.dll
+/Users/radhold/Desktop/С#/лаба 8/файлы/obj/Debug/netcoreapp3.0/samsmith.pdb

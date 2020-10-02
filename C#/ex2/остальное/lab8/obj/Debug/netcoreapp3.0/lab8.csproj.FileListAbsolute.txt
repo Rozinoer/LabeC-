@@ -1,0 +1,33 @@
+/Users/anastasia/Projects/nextproject/lab8/bin/Debug/netcoreapp3.0/lab8
+/Users/anastasia/Projects/nextproject/lab8/bin/Debug/netcoreapp3.0/lab8.deps.json
+/Users/anastasia/Projects/nextproject/lab8/bin/Debug/netcoreapp3.0/lab8.runtimeconfig.json
+/Users/anastasia/Projects/nextproject/lab8/bin/Debug/netcoreapp3.0/lab8.runtimeconfig.dev.json
+/Users/anastasia/Projects/nextproject/lab8/bin/Debug/netcoreapp3.0/lab8.dll
+/Users/anastasia/Projects/nextproject/lab8/bin/Debug/netcoreapp3.0/lab8.pdb
+/Users/anastasia/Projects/nextproject/lab8/obj/Debug/netcoreapp3.0/lab8.csprojAssemblyReference.cache
+/Users/anastasia/Projects/nextproject/lab8/obj/Debug/netcoreapp3.0/lab8.AssemblyInfoInputs.cache
+/Users/anastasia/Projects/nextproject/lab8/obj/Debug/netcoreapp3.0/lab8.AssemblyInfo.cs
+/Users/anastasia/Projects/nextproject/lab8/obj/Debug/netcoreapp3.0/lab8.dll
+/Users/anastasia/Projects/nextproject/lab8/obj/Debug/netcoreapp3.0/lab8.pdb
+/Users/radhold/Desktop/nextproject/lab8/bin/Debug/netcoreapp3.0/lab8
+/Users/radhold/Desktop/nextproject/lab8/bin/Debug/netcoreapp3.0/lab8.deps.json
+/Users/radhold/Desktop/nextproject/lab8/bin/Debug/netcoreapp3.0/lab8.runtimeconfig.json
+/Users/radhold/Desktop/nextproject/lab8/bin/Debug/netcoreapp3.0/lab8.runtimeconfig.dev.json
+/Users/radhold/Desktop/nextproject/lab8/bin/Debug/netcoreapp3.0/lab8.dll
+/Users/radhold/Desktop/nextproject/lab8/bin/Debug/netcoreapp3.0/lab8.pdb
+/Users/radhold/Desktop/nextproject/lab8/obj/Debug/netcoreapp3.0/lab8.csprojAssemblyReference.cache
+/Users/radhold/Desktop/nextproject/lab8/obj/Debug/netcoreapp3.0/lab8.AssemblyInfoInputs.cache
+/Users/radhold/Desktop/nextproject/lab8/obj/Debug/netcoreapp3.0/lab8.AssemblyInfo.cs
+/Users/radhold/Desktop/nextproject/lab8/obj/Debug/netcoreapp3.0/lab8.dll
+/Users/radhold/Desktop/nextproject/lab8/obj/Debug/netcoreapp3.0/lab8.pdb
+/Users/radhold/Desktop/lab 8/остальное/lab8/bin/Debug/netcoreapp3.0/lab8
+/Users/radhold/Desktop/lab 8/остальное/lab8/bin/Debug/netcoreapp3.0/lab8.deps.json
+/Users/radhold/Desktop/lab 8/остальное/lab8/bin/Debug/netcoreapp3.0/lab8.runtimeconfig.json
+/Users/radhold/Desktop/lab 8/остальное/lab8/bin/Debug/netcoreapp3.0/lab8.runtimeconfig.dev.json
+/Users/radhold/Desktop/lab 8/остальное/lab8/bin/Debug/netcoreapp3.0/lab8.dll
+/Users/radhold/Desktop/lab 8/остальное/lab8/bin/Debug/netcoreapp3.0/lab8.pdb
+/Users/radhold/Desktop/lab 8/остальное/lab8/obj/Debug/netcoreapp3.0/lab8.csprojAssemblyReference.cache
+/Users/radhold/Desktop/lab 8/остальное/lab8/obj/Debug/netcoreapp3.0/lab8.AssemblyInfoInputs.cache
+/Users/radhold/Desktop/lab 8/остальное/lab8/obj/Debug/netcoreapp3.0/lab8.AssemblyInfo.cs
+/Users/radhold/Desktop/lab 8/остальное/lab8/obj/Debug/netcoreapp3.0/lab8.dll
+/Users/radhold/Desktop/lab 8/остальное/lab8/obj/Debug/netcoreapp3.0/lab8.pdb

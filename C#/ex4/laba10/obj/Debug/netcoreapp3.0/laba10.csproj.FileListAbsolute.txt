@@ -1,0 +1,33 @@
+/Users/anastasia/Projects/laba10/laba10/obj/Debug/netcoreapp3.0/laba10.csprojAssemblyReference.cache
+/Users/anastasia/Projects/laba10/laba10/obj/Debug/netcoreapp3.0/laba10.AssemblyInfoInputs.cache
+/Users/anastasia/Projects/laba10/laba10/obj/Debug/netcoreapp3.0/laba10.AssemblyInfo.cs
+/Users/anastasia/Projects/laba10/laba10/bin/Debug/netcoreapp3.0/laba10
+/Users/anastasia/Projects/laba10/laba10/bin/Debug/netcoreapp3.0/laba10.deps.json
+/Users/anastasia/Projects/laba10/laba10/bin/Debug/netcoreapp3.0/laba10.runtimeconfig.json
+/Users/anastasia/Projects/laba10/laba10/bin/Debug/netcoreapp3.0/laba10.runtimeconfig.dev.json
+/Users/anastasia/Projects/laba10/laba10/bin/Debug/netcoreapp3.0/laba10.dll
+/Users/anastasia/Projects/laba10/laba10/bin/Debug/netcoreapp3.0/laba10.pdb
+/Users/anastasia/Projects/laba10/laba10/obj/Debug/netcoreapp3.0/laba10.dll
+/Users/anastasia/Projects/laba10/laba10/obj/Debug/netcoreapp3.0/laba10.pdb
+/Users/radhold/Desktop/laba10/laba10/bin/Debug/netcoreapp3.0/laba10
+/Users/radhold/Desktop/laba10/laba10/bin/Debug/netcoreapp3.0/laba10.deps.json
+/Users/radhold/Desktop/laba10/laba10/bin/Debug/netcoreapp3.0/laba10.runtimeconfig.json
+/Users/radhold/Desktop/laba10/laba10/bin/Debug/netcoreapp3.0/laba10.runtimeconfig.dev.json
+/Users/radhold/Desktop/laba10/laba10/bin/Debug/netcoreapp3.0/laba10.dll
+/Users/radhold/Desktop/laba10/laba10/bin/Debug/netcoreapp3.0/laba10.pdb
+/Users/radhold/Desktop/laba10/laba10/obj/Debug/netcoreapp3.0/laba10.csprojAssemblyReference.cache
+/Users/radhold/Desktop/laba10/laba10/obj/Debug/netcoreapp3.0/laba10.AssemblyInfoInputs.cache
+/Users/radhold/Desktop/laba10/laba10/obj/Debug/netcoreapp3.0/laba10.AssemblyInfo.cs
+/Users/radhold/Desktop/laba10/laba10/obj/Debug/netcoreapp3.0/laba10.dll
+/Users/radhold/Desktop/laba10/laba10/obj/Debug/netcoreapp3.0/laba10.pdb
+/Users/evgenii/Downloads/C-1-master/лаба 10/laba10/bin/Debug/netcoreapp3.0/laba10
+/Users/evgenii/Downloads/C-1-master/лаба 10/laba10/bin/Debug/netcoreapp3.0/laba10.deps.json
+/Users/evgenii/Downloads/C-1-master/лаба 10/laba10/bin/Debug/netcoreapp3.0/laba10.runtimeconfig.json
+/Users/evgenii/Downloads/C-1-master/лаба 10/laba10/bin/Debug/netcoreapp3.0/laba10.runtimeconfig.dev.json
+/Users/evgenii/Downloads/C-1-master/лаба 10/laba10/bin/Debug/netcoreapp3.0/laba10.dll
+/Users/evgenii/Downloads/C-1-master/лаба 10/laba10/bin/Debug/netcoreapp3.0/laba10.pdb
+/Users/evgenii/Downloads/C-1-master/лаба 10/laba10/obj/Debug/netcoreapp3.0/laba10.csprojAssemblyReference.cache
+/Users/evgenii/Downloads/C-1-master/лаба 10/laba10/obj/Debug/netcoreapp3.0/laba10.AssemblyInfoInputs.cache
+/Users/evgenii/Downloads/C-1-master/лаба 10/laba10/obj/Debug/netcoreapp3.0/laba10.AssemblyInfo.cs
+/Users/evgenii/Downloads/C-1-master/лаба 10/laba10/obj/Debug/netcoreapp3.0/laba10.dll
+/Users/evgenii/Downloads/C-1-master/лаба 10/laba10/obj/Debug/netcoreapp3.0/laba10.pdb
